@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**1Paragon/1Paragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Traci Black and I am studying to become a full stack web developer, with a focus on backend and data analysis.
 
 Here are some ideas to get you started:
 

@@ -2,7 +2,7 @@ Hello, I am Traci Black and I am studying to become a full stack web developer, 
 
 - 🔭 I’m currently working on building a website
 - 🌱 I’m currently learning Vanilla JavaScript, HTML, CSS, ... 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with finding appropriate tech meet ups reletive to my areas of focus and level.  
 - 💬 Ask me about my cat, or if I can lend an empathetic ear.?.
 - 📫 How to reach me: 1Paragon@protonmail.com
 - ⚡ Fun fact: Being able to poke fun at oneself and a good sense of humor are healthy character traits!

@@ -1,7 +1,6 @@
-Hello, I am Traci Black and I am studying to become a full stack web developer, with a focus on backend and data analysis.
-
-- 🔭 I’m currently working on building a website
-- 🌱 I’m currently learning Vanilla JavaScript, HTML, CSS, ... 
+Hello, I am Traci Black and I am a graduate of Savvy Coders in St. Louis in Full Stack Web Development.
+- 🔭 I am currently refining my coding skills and working full time.
+- 🌱 My skillls include Java Script, CSS, HTML, Trello, Jira, GitHub, Node.js, Express and Agile Certifications. 
 - 🤔 I’m looking for help with finding appropriate tech meet ups relative to my areas of focus and level.  
 - 💬 Ask me about my cat, or if I can lend an empathetic ear.?.
 - 📫 How to reach me: 1Paragon@protonmail.com
